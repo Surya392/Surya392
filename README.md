@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Surya392
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on interesting projects.
-- 📫 How to reach me ...
+- 📫 How to reach me ... suryarathore1000@gmail.com
 
 <!---
 Surya392/Surya392 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
